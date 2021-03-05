@@ -16,6 +16,7 @@
 \usepackage[labelfont=bf,labelsep=endash,font=footnotesize]{caption}
 \usepackage{tabu}
 \usepackage{xcolor}
+\usepackage[backend=biber,natbib=true]{biblatex}
 \usepackage[hidelinks]{hyperref}
 \usepackage[hang]{footmisc}
 \usepackage[normalem]{ulem}
@@ -26,6 +27,9 @@
 \usepackage{wrapfig}
 %%%=========%%%
 
+
+%% add bibliography file
+\addbibresource{ituJournalPaper.bib}
 
 %%%== definitions of new commands/redefinition of existing ones, specifically for this template ==%%%
 
@@ -244,7 +248,7 @@ To help your readers, avoid using footnotes altogether and include necessary per
 
 \section{Using references}
 \label{sec:sec8}
-List and number all bibliographical references at the end of the paper, and refer to them in the text as shown in this sentence \cite{bib1}.
+List and number all bibliographical references at the end of the paper, and refer to them in the text as shown in this sentence \cite{author2021}.
 
 
 \section{Page numbering}
@@ -270,26 +274,8 @@ You may list here colleagues, sponsors and financial supporter that you wish to 
 This section is not required.
 
 
-%%= start of bibliography =%%
-\begin{thebibliography}{9}
-
-\bibitem{bib1}
-Here goes the first item of the bibliography.
-
-\bibitem{bib2}
-The margins are predefined in the template, and \textbf{should not} be changed.
-
-\bibitem{bib3}
-To make sure the references are correctly displayed in the text, compile twice the document.
-
-\bibitem{bib4}
-M. Adolph,
-"Big Data: Big today, normal tomorrow",
-in ITU-T Technology Watch Report,
-Geneva, Switzerland, ITU, 2013. Available:
-{\ITUurl{https://www.itu.int/dms_pub/itu-t/oth/23/01/T23010000220001PDFE.pdf}}
-
-\end{thebibliography}
+%%= bibliography =%%
+\printbibliography 
 %%======%%
 
 \newpage
