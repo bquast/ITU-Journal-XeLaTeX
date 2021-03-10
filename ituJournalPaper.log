@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2021.3.3)  5 MAR 2021 11:52
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2021.3.3)  10 MAR 2021 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1103,19 +1103,19 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 File: Figure1.png Graphic file (type bmp)
 <Figure1.png>
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 210.
+(Font)              scaled to size 9.00096pt on input line 213.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 210.
+(Font)              scaled to size 6.00064pt on input line 213.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 210.
+(Font)              scaled to size 8.99904pt on input line 213.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 210.
+(Font)              scaled to size 5.99936pt on input line 213.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 245.
+(Font)              scaled to size 8.00085pt on input line 248.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 245.
+(Font)              scaled to size 7.99915pt on input line 248.
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--259
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
 |[]\TU/lmr/bx/n/12 AUTHORING RECOMMENDA-
  []
 
@@ -1123,61 +1123,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 259--259
 File: yourphotofilename.jpg Graphic file (type bmp)
 <yourphotofilename.jpg>
 
-Overfull \hbox (16.92747pt too wide) in paragraph at lines 287--288
+Overfull \hbox (16.92747pt too wide) in paragraph at lines 290--291
 [][] 
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 288--288
+Underfull \hbox (badness 2181) in paragraph at lines 291--291
 \TU/lmr/m/n/10 graph consisting of the fol-
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 288--288
+Underfull \hbox (badness 1803) in paragraph at lines 291--291
 \TU/lmr/m/n/10 lowing: sequentially ordered
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 288--288
+Underfull \hbox (badness 2197) in paragraph at lines 291--291
 \TU/lmr/m/n/10 places of employ concluding
  []
 
 File: yourphotofilename.jpg Graphic file (type bmp)
 <yourphotofilename.jpg>
 
-Overfull \hbox (16.92747pt too wide) in paragraph at lines 292--293
+Overfull \hbox (16.92747pt too wide) in paragraph at lines 295--296
 [][] 
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 293--293
+Underfull \hbox (badness 1803) in paragraph at lines 296--296
 \TU/lmr/m/n/10 lowing: sequentially ordered
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 293--293
+Underfull \hbox (badness 2197) in paragraph at lines 296--296
 \TU/lmr/m/n/10 places of employ concluding
  []
 
 File: yourphotofilename.jpg Graphic file (type bmp)
 <yourphotofilename.jpg>
 
-Overfull \hbox (16.92747pt too wide) in paragraph at lines 297--298
+Overfull \hbox (16.92747pt too wide) in paragraph at lines 300--301
 [][] 
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 298--298
+Underfull \hbox (badness 2181) in paragraph at lines 301--301
 \TU/lmr/m/n/10 graph consisting of the fol-
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 298--298
+Underfull \hbox (badness 1803) in paragraph at lines 301--301
 \TU/lmr/m/n/10 lowing: sequentially ordered
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 298--298
+Underfull \hbox (badness 2197) in paragraph at lines 301--301
 \TU/lmr/m/n/10 places of employ concluding
  []
 
