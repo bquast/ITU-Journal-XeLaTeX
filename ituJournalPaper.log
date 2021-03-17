@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2021.3.3)  10 MAR 2021 14:50
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2021.3.3)  17 MAR 2021 10:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -388,6 +388,8 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 (/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2020/08/23 v3.15a biblatex localization (PK/MW)
 )
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count342
@@ -1096,7 +1098,10 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (/usr/share/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
-) [1
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 
 ]
@@ -1189,11 +1194,11 @@ Package rerunfilecheck Info: File `ituJournalPaper.out' has not changed.
 Package logreq Info: Writing requests to 'ituJournalPaper.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 26293 strings out of 477299
+ 26296 strings out of 477299
  472583 string characters out of 5838339
- 1374921 words of memory out of 5000000
- 45617 multiletter control sequences out of 15000+600000
- 406483 words of font info for 72 fonts, out of 8000000 for 9000
+ 1368043 words of memory out of 5000000
+ 45621 multiletter control sequences out of 15000+600000
+ 406475 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,112p,748b,4546s stack positions out of 5000i,500n,10000p,200000b,80000s
 

@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{none/global//global/global}
     \entry{author2021}{article}{}
       \name{author}{1}{}{%
         {{hash=3e3ce619cc4a64da59c8ee803f7976c6}{%
@@ -33,8 +33,8 @@
       \strng{authorbibnamehash}{3e3ce619cc4a64da59c8ee803f7976c6}
       \strng{authornamehash}{3e3ce619cc4a64da59c8ee803f7976c6}
       \strng{authorfullhash}{3e3ce619cc4a64da59c8ee803f7976c6}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Journal}
