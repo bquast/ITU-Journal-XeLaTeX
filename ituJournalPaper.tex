@@ -27,6 +27,12 @@
 \usepackage{wrapfig}
 %%%=========%%%
 
+\hypersetup{
+	colorlinks = true,
+	urlcolor= blue,
+	linkcolor = blue,
+	citecolor=.
+}
 
 %% add bibliography file
 \addbibresource{ituJournalPaper.bib}
@@ -49,8 +55,6 @@
 
 \titleformat{\subsubsection}{\large\itshape}{\thesubsubsection}{1em}{#1}
 \titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
-
-\newcommand{\ITUurl}[1]{\textcolor{blue}{\urlstyle{same}\url{#1}}}
 
 \newcommand{\ITUnote}[1]{\begin{small} \ITUpar NOTE: #1 \end{small}}
 
@@ -143,7 +147,7 @@ Do not cite references in the abstract.}
 %%= start of sectioning � MODIFY EACH TITLE AND LABEL AS YOU PLEASE =%%
 \section{Introduction} 
 \label{sec:intro}
-This template provides detailed instructions for submitting papers to ITU J-FET. The next sections describe style, fonts and spacing to adopt. Please use this \LaTeX\ template for your paper. \ITUpar Additional instructions on submitting your paper can be found in the \textcolor{blue}{\href{https://www.itu.int/en/journal/Pages/submission-guidelines.aspx}{Author's Guidelines}}. Please address any enquiries or suggestions about this template to the ITU Journal Team at \ITUurl{journal@itu.int}.
+This template provides detailed instructions for submitting papers to ITU J-FET. The next sections describe style, fonts and spacing to adopt. Please use this \LaTeX\ template for your paper. \ITUpar Additional instructions on submitting your paper can be found in the \href{https://www.itu.int/en/journal/Pages/submission-guidelines.aspx}{Author's Guidelines}. Please address any enquiries or suggestions about this template to the ITU Journal Team at \href{mailto:journal@itu.int}{journal@itu.int}.
 
 
 \section{Formatting}
